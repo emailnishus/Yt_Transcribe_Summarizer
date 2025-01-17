@@ -13,8 +13,8 @@ Follow the steps below to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/emailnishus/Yt_Transcribe_Summarizer.git
+   cd Yt_Transcribe_Summarizer
    ```
 
 2. **Create a Virtual Environment**:

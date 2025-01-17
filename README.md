@@ -39,7 +39,7 @@ Follow the steps below to set up and run the application:
 
 5. **Run the Application**:
    ```bash
-   python app.py
+   streamlit run app.py
    ```
 
 ## Features

@@ -1,7 +1,5 @@
 # Yt_Transcribe_Summarizer
 
-# YT Transcribe Summarizer
-
 ## Overview
 YT Transcribe Summarizer is a tool designed to transcribe and summarize YouTube videos efficiently. This project provides users with a summarized version of the content, saving time and effort.
 
